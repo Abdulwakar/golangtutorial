@@ -8,6 +8,7 @@ func main() {
     fmt.Println("Hello %s", World)
     fmt.Println(Pi)
     const Truth = true
+    Truth := 14
     fmt.Println("Go rules?", Truth)
 
 }
